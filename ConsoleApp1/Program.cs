@@ -6,6 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello mother!");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Branch.");
             Console.WriteLine("Hello Tree.");
